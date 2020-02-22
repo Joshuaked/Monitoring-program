@@ -1,2 +1,2 @@
-# Python-Learnings
-This is for myself and Cameron or anyone else to work on projects together
+# Questions & Ideas
+Put anything in here as for questions on the project or ideas that we could impliment
